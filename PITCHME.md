@@ -1,21 +1,38 @@
-
-![Why react exist](1.jpeg)
-
+---
 
 # Why react exsit
 # What problem does it solve
 # Why it makes front-end development easier
 # What principles we need to understand to be more than the average react developer
 
-## Lot of time developers learn any framework / tool without understanding the core principles
+---
 
-#Goals
+![Traditional Architecture](1.jpeg)
 
-1) Make you a react developer that can think on your own
-2) Make good architectural decisions
-3) Lead projects instead of following tutorials
-  
+---
 
-## Birth of React JS
+![Introduction of Jquery](2.jpeg)
 
-1) react came in 2013
+---
+
+![Easier to use Jquery API](3.jpeg)
+
+---
+
+![Large Apps with Jquery - JS files grew in size??](4.jpeg)
+
+---
+
+![Then Backbone Came to rescue](5.jpeg)
+
+---
+
+@snap[west span-40 -center]
+
+### Birth OF SPA
+### It became easier and easier to work with dom then it gave birth to SPA
+@snapend
+
+@snap[north-east span-40 text-center]
+![GRAPHQL](6.jpeg)
+@snapend
