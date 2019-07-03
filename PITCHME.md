@@ -111,63 +111,97 @@ And now
 
 ##Dom Manipulation using Javascript API
 ![reactinto](19.jpeg)
-
 ---
 
 ##Imperative Design pattern
 ![reactinto](20.jpeg)
-
 ---
 
 ##Imperative Design pattern
 ![reactinto](21.jpeg)
-
 ---
 
 ##Imperative Design pattern
 ![reactinto](22.jpeg)
-
 ---
 
 ##Declarative Design pattern
 ![reactinto](23.jpeg)
-
 ---
 
 ##Declarative Design pattern
 ![reactinto](24.png)
-
 ---
 
 ##Build websites in Lego blocks - Components
 ![reactinto](25.png)
-
 ---
 
 ##Build websites in Lego blocks - Components
 ![reactinto](26.png)
-
 ---
 
 ##Components - Example
 ![reactinto](27.png)
-
 ---
 
 ##Components are plan Javascript functions
 ![reactinto](28.png)
-
 ---
 
 ##Components are created from data and receipt
 ![reactinto](28.png)
-
 ---
 
 ##Components are created from data and receipt
 ![reactinto](29.png)
-
 ---
 
 ##Components are independant and pluggable
 ![reactinto](30.png)
+---
+
+##Rect Concepts
+![reactinto](31.png)
+
+---
+##Virtual Dom
+![reactinto](32.png)
+
+---
+##Virtual Dom In Action
+![reactinto](33.png)
+
+---
+##Virtual Dom In Action
+![reactinto](34.png)
+
+---
+##One Way Data Flow
+![reactinto](35.png)
+
+---
+
+##React final concept
+![reactinto](36.png)
+
+---
+
+##Remember Angular - How it give you everything, like framework, very opinionated
+![reactinto](36.png)
+
+---
+##React - Learn once and write everywhere
+![reactinto](37.png)
+
+---
+##React - Learn once and write everywhere
+![reactinto](38.png)
+
+---
+##React - As a cross platform
+![reactinto](39.png)
+
+---
+##React - Keywords
+![reactinto](40.png)
